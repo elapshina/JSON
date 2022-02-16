@@ -15,5 +15,19 @@
 	"Feature of iOS, Android, guidelines",
 	"Building iOS applications on XCode",
 	"Building Android applications on Android Studio",
-	"DB (android device management)",
+	"ADB (android device management)",
+	"Setting up proxy and vpn on iOS and Android",
+	"Interception of mobile traffic via Charles and Fiddler on iOS and Android",
+	"Command line terminal Linux "
+	"Basics of bash scripting, automation of routine tasks on the server",
+	"Access to remote servers",
+	"SQL basics",
+	"Postgres database",
+	"Non-relational database Redis",
+	"Load testing in Jmeter",
+	"Scrum development methodology",
+	"Python. Learning the basics. Creating a client-server application",
+	]
+}
+
 
