@@ -1,7 +1,7 @@
 {
     "Project":"Ewa",
      "Summary":"Start page: The button to enter email is not clickable",
-     "Descriprion":"{
+     "Descriprion":{
      "STR":{"1":"Run app",
             "2":"Click button to enter email"},
      "Actual result":"The button to enter email is not clickable",
