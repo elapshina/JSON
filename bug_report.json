@@ -1,1 +1,14 @@
-
+{
+    "Project":"Ewa",
+     "Summary":"Start page: The button to enter email is not clickable",
+     "Descriprion":"{
+     "STR":{"1":"Run app",
+            "2":"Click button to enter email"},
+     "Actual result":"The button to enter email is not clickable",
+     "Expected result":"The button to enter email is clickable and an input field should appear"},
+     "Environment":"Android 12", 
+     "Attachment":"fghfmsk.mp4",
+     "Lables": "email",
+     "Severity":"major",
+     "Priority":"medium"
+}
