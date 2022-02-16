@@ -1,0 +1,19 @@
+{
+"skills":[
+	"Basic theory",
+	"Client-server architecture",
+	"HTTP Methods of requests to the server",
+	"HTTP server response codes",
+	"Structures of HTTP requests and responses",
+	"What is JSON, XML. Their structure",
+	"API testing via Postman",
+	"Removing and reading logs from an external server",
+	"Sniffing http web traffic via Charles and Fiddler",
+	"Dev Tools of web browsers",
+	"VPN.ow it works, why you need it, how to use it, tool options",
+	"Mobile testing",
+	"Feature of iOS, Android, guidelines",
+	"Building iOS applications on XCode",
+	"Building Android applications on Android Studio",
+	"DB (android device management)",
+
